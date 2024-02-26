@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1665195961 source:c:\users\allan\desktop\engenharia\informática industrial\3exerc\exerc4\exercicio4\main.cpp
+	<iostream>
+	<string.h>
+
